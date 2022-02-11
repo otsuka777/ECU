@@ -45,3 +45,4 @@
 同様に，ECUを制御するための車載ネットワークには高い信頼性が求められます．
 主にCAN（ControllerArea Network）が用いられますが，低速でもよい用途ではLIN（Local Interconnect Network）も使用されます．
 
+
